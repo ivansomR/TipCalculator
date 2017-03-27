@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="msg.billAmount">Bill Amount</string>
+    <string name="msg.hint">Enter Bill Amount</string>
+    <string name="msg.service">Service Rating</string>
+    <string name="msg.tipPct">%s%% Tip Percent</string>
+    <string name="msg.tipTotal">$%s Tip Total</string>
+    <string name="msg.billTotal">Bill Total</string>
+    <string name="msg.billTotalRes">$%s </string>
+</resources>
